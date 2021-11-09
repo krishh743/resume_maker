@@ -1,6 +1,6 @@
 import React from 'react'
 import './Resume.css';
-import {DateRangePickerComponent} from '@syncfusion/ej2-react-calenders';
+
 
 
 
@@ -54,7 +54,7 @@ function Resume() {
 
               
                 {/* set date from to current date */}
-  <DateRangePickerComponent></DateRangePickerComponent>
+ 
                 <input type="text" name="datetimes" />
                 <br />
 
