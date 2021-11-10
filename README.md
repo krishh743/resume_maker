@@ -6,6 +6,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+I added screenshot of this project output.
+<img src="screeenshot of simple resume maker.png">
+
 ### `npm start`
 
 Runs the app in the development mode.\
