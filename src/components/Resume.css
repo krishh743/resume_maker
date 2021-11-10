@@ -1,1 +1,22 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
 
+.DateRangePicker {
+   margin-left: 500px;
+  margin-right: 600px;
+  text-align: center; 
+
+}
+.resume{
+background-color: crimson;
+
+}
+.DateRangePicker{
+color: crimson;
+}
+.btn{
+background-color: forestgreen;
+cursor: pointer;
+}
+.main{
+background-color: blueviolet;
+}
